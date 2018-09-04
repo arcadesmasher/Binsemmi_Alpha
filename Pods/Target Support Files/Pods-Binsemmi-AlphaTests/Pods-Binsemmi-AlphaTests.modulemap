@@ -1,0 +1,6 @@
+framework module Pods_Binsemmi_AlphaTests {
+  umbrella header "Pods-Binsemmi-AlphaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
